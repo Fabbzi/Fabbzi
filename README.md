@@ -23,6 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-master-fabbzis-projects.vercel.app//api?username=fabbzi&show_icons=true&locale=en&role=ORGANIZATION_MEMBER" alt="fabbzi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-org-stats-devstorm-fabbzis-projects.vercel.app//api?username=fabbzi&show_icons=true&locale=en&role=ORGANIZATION_MEMBER" alt="fabbzi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-org-stats-tannhat-fabbzis-projects.vercel.app/api?username=fabbzi&show_icons=true&locale=en&role=ORGANIZATION_MEMBER" alt="fabbzi" /></p>
 
 
