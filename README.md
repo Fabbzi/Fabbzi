@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Games, The Sopranos and Breaking Bad**
 
-- 📫 How to reach me **lfabbriqg@outlook.com**
+- 📫 How to reach me **lfabbrigq@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
